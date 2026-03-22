@@ -1,4 +1,4 @@
-OrcaGold|v3.68|https://github.com/chebiri/icono/raw/master/OrcaGold.ngz|التحديث الجديد سرفر أوركا غولد
+OrcaGold|v3.68|http://djvb.alwaysdata.net/plugins/OrcaGold.zip|التحديث الجديد سرفر أوركا غولد
 Oscam|v11942|https://github.com/chebiri/icono/raw/master/Oscam11942.zip|أقوى محاكي لتشغيل القنوات المشفرة بجودة عالية
 Biss|v2.0|https://github.com/chebiri/icono/raw/master/Biss.zip|إضافة متخصصة لجلب شفرات البيس يدوياً وآلياً
 IconoSync|v3.2|https://github.com/chebiri/icono/raw/master/IconoSync.zip|التحديث الجديد لخدمة المزامنة الأساسية للجهاز
