@@ -1,2 +1,3 @@
+IptvOnly|v1.0|https://raw.githubusercontent.com/chebiri/icono/master/iptvonly.zip| Free Iptv Player  
 XcamClient3|v1|https://raw.githubusercontent.com/chebiri/icono/master/XcamClient3.zip| XcamClient3
 Biss|v2.0|https://raw.githubusercontent.com/chebiri/icono/master/biss.zip| Auto Biss 
