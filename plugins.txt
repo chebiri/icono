@@ -1,4 +1,4 @@
 OrcaGold|v3.68|https://raw.githubusercontent.com/chebiri/icono/master/OrcaGold.zip| Orca Gold 3.71
 XcamClient3|v1|https://raw.githubusercontent.com/chebiri/icono/master/XcamClient3.zip| XcamClient3
-Biss|v2.0|https://github.com/chebiri/icono/raw/master/Biss.zip| Auto Biss 
-IconoSync|v3.2|https://github.com/chebiri/icono/raw/master/IconoSync.zip|Icono Sync plugin 
+Biss|v2.0|https://raw.githubusercontent.com/chebiri/icono/master/Biss.zip| Auto Biss 
+IconoSync|v3.2|https://raw.githubusercontent.com/chebiri/icono/master/IconoSync.zip|Icono Sync plugin 
