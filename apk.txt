@@ -1,0 +1,30 @@
+{
+  "apps": [
+    {
+      "app_name": "Icono Control",
+      "version": "1.2.0",
+      "app_url": "https://play.google.com/store/apps/details?id=com.icono",
+      "app_icon": "https://example.com/icon1.png",
+      "app_details": {
+        "description": "تطبيق للتحكم في أجهزة الأيكون",
+        "features": [
+          "إيقاف البث",
+          "دعم المكفوفين"
+        ]
+      }
+    },
+    {
+      "app_name": "News App",
+      "version": "2.0.1",
+      "app_url": "https://play.google.com/store/apps/details?id=com.news",
+      "app_icon": "https://example.com/icon2.png",
+      "app_details": {
+        "description": "تطبيق أخبار سريع",
+        "features": [
+          "تنبيهات فورية",
+          "عرض المقالات"
+        ]
+      }
+    }
+  ]
+}
