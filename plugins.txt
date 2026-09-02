@@ -1,6 +1,6 @@
 IconoSync | v1.0 | https://raw.githubusercontent.com/chebiri/icono/master/IconoSync.zip | محرك مزامنة الإشعارات والتحكم الفوري بالرسيفر | Core
 XcamClient3 | v3.0 | https://raw.githubusercontent.com/chebiri/icono/master/XcamClient3.zip | بلوجين تشغيل وتوزيع اشتراكات الشيرنج CCCAM / MGCAMD | CAM
 Biss Auto | v2.0 | https://raw.githubusercontent.com/chebiri/icono/master/biss.zip | جلب وتحديث شفرات البيس Biss والشفرات الحديثة تلقائياً | CAM
-قنوات وليد 2026 | 2026.09 | https://raw.githubusercontent.com/chebiri/icono/master/channels_waleed.nsvc | باقة قنوات نايل سات وهوتبيرد وأسترا مرتبة مع المفضلات | Channels
+قنوات  2026 | 2026.09 | https://raw.githubusercontent.com/chebiri/icono/master/20260812.nsvc | باقة قنوات نايل سات وهوتبيرد وأسترا مرتبة مع المفضلات | Channels
 Oscam Modern | v11820 | https://raw.githubusercontent.com/chebiri/icono/master/oscam.zip | أحدث إصدار محاكي الأوسكام مع دعم الصوتيات والترجمة | CAM
 
