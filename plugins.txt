@@ -1,5 +1,6 @@
 IconoSync | v1.1 | https://raw.githubusercontent.com/chebiri/icono/master/IconoSync.zip | Notification synchronization and real-time receiver control engine | Core
 IconoTvOverlay | v2026.09.03 | https://raw.githubusercontent.com/chebiri/icono/master/IconoTvOverlay.zip | Luxury clock, original Icono logo, and on-screen pop-up notification engine | Core
+IconoٍSub Test | v2026.09.06 | https://raw.githubusercontent.com/chebiri/icono/master/IconoTvOverlay_test.zip |Sub and Luxury clock, original Icono logo, and on-screen pop-up notification engine | Core
 XcamClient3 | v3.0 | https://raw.githubusercontent.com/chebiri/icono/master/XcamClient3.zip | CCCAM / MGCAMD sharing subscription playback and distribution plugin | CAM
 Biss Auto | v2.0 | https://raw.githubusercontent.com/chebiri/icono/master/biss.zip | Automatic retrieval and updating of BISS keys and modern encryption keys | CAM
 Channel List 1 | V1.0 2026.02.4 | https://raw.githubusercontent.com/chebiri/icono/master/SVC_2.nsvc | Nilesat, Hotbird, and Astra channel package, organized with favorites | Channels
