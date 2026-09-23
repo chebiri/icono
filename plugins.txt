@@ -1,4 +1,4 @@
-Ncam Emu| v2.0 | ncamenu.ngz | CCCAM / MGCAMD sharing subscription playback and distribution plugin | CAM
+Ncam Emu| 3.0 | ncamenu.ngz | CCCAM / MGCAMD sharing subscription playback and distribution plugin | CAM
 Biss Auto | v2.0 | https://raw.githubusercontent.com/chebiri/icono/master/biss.zip | Automatic retrieval and updating of BISS keys and modern encryption keys | CAM
 Channel List 1 | V1.0 2026.02.4 | https://raw.githubusercontent.com/chebiri/icono/master/SVC_2.nsvc | Nilesat, Hotbird, and Astra channel package, organized with favorites | Channels
 Channel List 2 | V2.0 2026.06.6 | https://raw.githubusercontent.com/chebiri/icono/master/MostaphaBk.nsvc | Nilesat, Hotbird, and Astra channel package, organized with favorites | Channels
