@@ -1,4 +1,4 @@
-Ncam Emu | ironpro    | V1.0 2026.09.24   | https://raw.githubusercontent.com/chebiri/icono/master/ncamenu.ngz                   | Ncam Emu 
+Ncam Emu | All    | V1.0 2026.09.24   | https://raw.githubusercontent.com/chebiri/icono/master/ncamenu.ngz                   | Ncam Emu 
 Icone ًWegoo pip | wegoo  | V1.0 2026.09.24 | https://raw.githubusercontent.com/chebiri/icono/master/pip.ngz                       | Icone ًWegoo pip By Mourad Sila
 Channel List 1  | All    | V1.0 2026.02.4    | https://raw.githubusercontent.com/chebiri/icono/master/SVC_2.nsvc                    | Nilesat, Hotbird, and Astra channel package, organized with favorites | Channels
 Channel List 2  | All    | V2.0 2026.06.6    | https://raw.githubusercontent.com/chebiri/icono/master/MostaphaBk.nsvc               | Nilesat, Hotbird, and Astra channel package, organized with favorites | Channels
