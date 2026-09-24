@@ -1,3 +1,4 @@
+Ncam Emu | V1.0 2026.09.24 | https://raw.githubusercontent.com/chebiri/icono/master/ncamenu.ngz | Ncam Emu 
 Channel List 1 | V1.0 2026.02.4 | https://raw.githubusercontent.com/chebiri/icono/master/SVC_2.nsvc | Nilesat, Hotbird, and Astra channel package, organized with favorites | Channels
 Channel List 2 | V2.0 2026.06.6 | https://raw.githubusercontent.com/chebiri/icono/master/MostaphaBk.nsvc | Nilesat, Hotbird, and Astra channel package, organized with favorites | Channels
 Channel List 3 | V3.0 2026.09.6 | https://raw.githubusercontent.com/chebiri/icono/master/OrcaGold_Favorites_BySat.nsvc | Nilesat, Hotbird, and Astra channel package, organized with favorites | Channels
