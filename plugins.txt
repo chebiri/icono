@@ -1,2 +1,2 @@
-Ncam Emu | All    | V1.0 2026.09.24   | https://raw.githubusercontent.com/chebiri/icono/master/ncamenu.ngz                   | Ncam Emu 
+Ncam Emu | All    | V1.3 2026.09.28   | https://raw.githubusercontent.com/chebiri/icono/master/ncamenu.ngz                   | Ncam Emu 
 Icone ًWegoo pip | wegoo  | V1.0 2026.09.24 | https://raw.githubusercontent.com/chebiri/icono/master/pip.ngz                       | Icone ًWegoo pip By Mourad Sila
