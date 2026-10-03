@@ -1,4 +1,2 @@
-VIP Channels | All | 2.5 | http://.pkg | قنوات خاصة جدا | Channels | VIP
-YouTube App | All | 1.0 | http://.pkg | تطبيق يوتيوب | App | Public
 
 
